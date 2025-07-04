@@ -13,7 +13,7 @@ name: Generate Snake
            - uses: actions/checkout@v4
            - uses: Platane/snk@v3
              with:
-               github_user_name: ${{ github.repository_owner }} # 自动使用 bluejedis
+               github_user_name: ${{ github.repository_owner }} # 自动使用bluejedis
                outputs: |
                  dist/github-contribution-grid-snake.svg?color_snake=#40C463&color_dots=#EBEDF0,#9BE9A8,#40C463,#30A14E,#216E39
                  dist/github-contribution-grid-snake-dark.svg?color_snake=#40C463&color_dots=#EBEDF0,#9BE9A8,#40C463,#30A14E,#216E39&palette=github-dark
