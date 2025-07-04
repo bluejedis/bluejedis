@@ -8,30 +8,31 @@
 
 <!-- GitHub 统计图表 -->
 <div align="center">
-    <table align="center" width="100%" height="100%">
+    <table align="center" width="100%">
         <tr>
-            <td>
-                <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluejedis&theme=github" alt="Bluejedis's GitHub Stats" class="gh-light-mode-only"/>
+            <td align="center">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bluejedis&theme=github" alt="Bluejedis's Profile Details" style="border: none;"/>
             </td>
-            <td>
-                <img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=bluejedis&theme=default" alt="Bluejedis's Contribution Streak" class="gh-light-mode-only"/>
+            <td align="center">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluejedis&theme=default" alt="Bluejedis's Contribution Streak" style="border: none;"/>
             </td>
         </tr>
     </table>
-    <table align="center" width="100%" height="100%">
+    <table align="center" width="100%">
         <tr>
-            <td>
-                <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluejedis&theme=github" alt="Bluejedis's GitHub Stats" class="gh-light-mode-only"/> 
+            <td align="center">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bluejedis&theme=github" alt="Bluejedis's GitHub Stats" style="border: none;"/>
             </td>
-            <td>
-                <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bluejedis&theme=github&utcOffset=8" alt="Bluejedis's GitHub Stats" class="gh-light-mode-only"/>
+            <td align="center">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bluejedis&theme=github&utcOffset=8" alt="Bluejedis's Productive Time" style="border: none;"/>
             </td>
-            <td>
-                <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bluejedis&theme=github" alt="Bluejedis's GitHub Stats" class="gh-light-mode-only"/>
+            <td align="center">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bluejedis&theme=github" alt="Bluejedis's Repos per Language" style="border: none;"/>
             </td>
-            <td>
-                <img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bluejedis&theme=github" alt="Bluejedis's GitHub Stats" class="gh-light-mode-only"/>
+            <td align="center">
+                <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bluejedis&theme=github" alt="Bluejedis's Most Commit Language" style="border: none;"/>
             </td>
         </tr>
     </table>
 </div>
+
