@@ -1,7 +1,7 @@
 name: Generate Snake
 on:
   schedule:
-    - cron: "0 */168 * * *" # 一周运行一次
+    - cron: "0 0 * * 1" # 周一运行
   workflow_dispatch: # 允许手动触发
   push:
     branches:
